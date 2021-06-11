@@ -228,12 +228,15 @@
 } 
 @media(max-width:500px){
     .container-principal h1 {
-        font-size: 28px;
+        font-size: 20px;
+    }
+    .icon-star button {
+        padding: 4px 12px;
     }
 }   
 @media(max-width:400px){
     .container-principal h1 {
-        font-size: 30px;
+        font-size: 19px;
     }
     .register input {
         padding: 5px 4px;
