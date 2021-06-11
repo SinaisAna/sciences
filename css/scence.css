@@ -497,6 +497,12 @@
             width: 39%;
         }
     }
+    @media(max-width: 650px) {
+        .button-finish button{
+            margin-left: auto;
+        }
+    }
+
 
     @media(max-width: 350px) {
         .box-radio2{
