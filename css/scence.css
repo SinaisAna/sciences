@@ -204,6 +204,9 @@
     }
 }
 @media(max-width:600px){
+    .banner {
+        width: 100%;
+    }
     .banner-principal {
         width: 100%;
     }
